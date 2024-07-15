@@ -1,6 +1,6 @@
 * **LMO Client v7.0**
 * **Download Release**:
-* 
+
 ![Total Downloads](https://img.shields.io/github/downloads/qberkdc/LMO_Xlient/total)
 
 <div align="center">
