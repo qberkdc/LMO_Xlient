@@ -6,10 +6,9 @@
   <img src="https://raw.githubusercontent.com/qberkdc/LMO_Xlient/public/images/lmoxlient.png"/>
 </div>
 
-<div id="button2" align="center">
+<div id="button" align="center">
   <a href="#">
-    <img src= "https://img.shields.io/github/downloads/qberkdc/LMO_Xlient/latest/total?sort=date&style=for-the-badge&logo=github&logoColor=%23808080
-">
+    <img src= "https://img.shields.io/github/downloads/qberkdc/LMO_Xlient/latest/total?sort=date&style=for-the-badge&logo=github&logoColor=%23808080&labelColor=%23303030">
   </a>
 </div>
 
