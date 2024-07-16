@@ -8,6 +8,6 @@
 
 ----
 
-<div align="left"> <img height="92px" width="auto" src="https://raw.githubusercontent.com/qberkdc/LMO_Xlient/public/images/lmoxlient.png"/> </div>
+<div align="left"> <img height="auto" width="auto" src="https://raw.githubusercontent.com/qberkdc/LMO_Xlient/public/images/lmoxlient.png"/> </div>
 
 ---
